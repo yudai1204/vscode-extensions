@@ -35,6 +35,15 @@
     "bung87.vscode-gemfile",
     "vscode-icons-team.vscode-icons",
     "ms-vscode-remote.remote-wsl",
-    "tonybaloney.vscode-pets"
+    "tonybaloney.vscode-pets",
+    "formulahendry.code-runner",
+    "tabnine.tabnine-vscode",
+    "kisstkondoros.vscode-gutter-preview",
+    "wayou.vscode-todo-highlight",
+    "styled-components.vscode-styled-components",
+    "streetsidesoftware.code-spell-checker",
+    "mikestead.dotenv",
+    "kevinrose.vsc-python-indent",
+    "christian-kohler.path-intellisense"
   ]
 }

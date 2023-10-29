@@ -1,0 +1,40 @@
+{
+  "editor.tabSize": 2,
+  "editor.mouseWheelScrollSensitivity": 0.25,
+  "workbench.list.mouseWheelScrollSensitivity": 0.25,
+  "terminal.integrated.mouseWheelScrollSensitivity": 0.25,
+  "code-runner.executorMap": {
+    "python": "python3 -u"
+  },
+  "explorer.confirmDelete": false,
+  // formatter
+  "editor.formatOnSave": true, // ファイル保存時の自動フォーマット有効
+  "editor.formatOnPaste": true, // ペーストした文字の自動フォーマット有効
+  "editor.formatOnType": true, // 文字入力行の自動フォーマット有効
+  "editor.defaultFormatter": "esbenp.prettier-vscode", // デフォルトフォーマッターをPrettierに指定
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true, // ファイル保存時に ESLint でフォーマット
+    "source.fixAll.stylelint": true // ファイル保存時に stylelint でフォーマット
+  },
+  "git.autofetch": true,
+  "editor.rename.enablePreview": false,
+  "workbench.editor.enablePreview": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "ruby.useLanguageServer": true,
+  "ruby.lint": {
+    "rubocop": {
+      "useBundler": true,
+      "except": ["Metrics"] // because it is annoying that it puts wavy lines to all lines in those methods
+    }
+  },
+  "ruby.format": "rubocop",
+  "ruby.intellisense": "rubyLocate",
+  "explorer.confirmDragAndDrop": false,
+  "code-runner.runInTerminal": true,
+  "editor.stickyScroll.enabled": true,
+  "workbench.iconTheme": "vscode-icons",
+  "vscode-pets.petSize": "medium",
+  "vscode-pets.petColor": "yellow",
+  "vscode-pets.throwBallWithMouse": true,
+  "tabnine.experimentalAutoImports": true
+}

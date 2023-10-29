@@ -24,7 +24,6 @@
     "yudai1204.polacode-button",
     "esbenp.prettier-vscode",
     "ms-python.vscode-pylance",
-    "ms-python.python",
     "mechatroner.rainbow-csv",
     "ms-vscode-remote.remote-ssh",
     "ms-vscode-remote.remote-ssh-edit",
@@ -44,6 +43,14 @@
     "streetsidesoftware.code-spell-checker",
     "mikestead.dotenv",
     "kevinrose.vsc-python-indent",
-    "christian-kohler.path-intellisense"
+    "christian-kohler.path-intellisense",
+    "jeff-hykin.better-cpp-syntax",
+    "wraith13.bracket-lens",
+    "ms-toolsai.jupyter-keymap",
+    "adpyke.vscode-userscript",
+    "ms-vscode.cpptools",
+    "ms-vscode.cpptools-extension-pack",
+    "ms-toolsai.jupyter",
+    "ritwickdey.liveserver"
   ]
 }

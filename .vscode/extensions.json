@@ -55,6 +55,7 @@
     "bradgashler.htmltagwrap",
     "simonsiefke.svg-preview",
     "mutantdino.resourcemonitor",
-    "janisdd.vscode-edit-csv"
+    "janisdd.vscode-edit-csv",
+    "sandcastle.vscode-open"
   ]
 }

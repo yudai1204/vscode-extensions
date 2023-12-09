@@ -8,7 +8,6 @@
     "kaiwood.endwise",
     "dbaeumer.vscode-eslint",
     "mhutchie.git-graph",
-    "github.copilot",
     "github.vscode-github-actions",
     "github.copilot-chat",
     "eamodio.gitlens",
@@ -56,6 +55,13 @@
     "simonsiefke.svg-preview",
     "mutantdino.resourcemonitor",
     "janisdd.vscode-edit-csv",
-    "sandcastle.vscode-open"
+    "sandcastle.vscode-open",
+    "yukai.map-replace-js",
+    "yusukehirao.vscode-markuplint",
+    "wix.vscode-import-cost",
+    "wallabyjs.console-ninja",
+    "github.copilot",
+    "ms-python.python",
+    "shopify.ruby-lsp"
   ]
 }

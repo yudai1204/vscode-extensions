@@ -62,6 +62,7 @@
     "wallabyjs.console-ninja",
     "github.copilot",
     "ms-python.python",
-    "shopify.ruby-lsp"
+    "shopify.ruby-lsp",
+    "astro-build.astro-vscode"
   ]
 }
